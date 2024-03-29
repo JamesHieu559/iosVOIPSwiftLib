@@ -1,0 +1,6 @@
+framework module Pods_iosVOIPSwiftLib_Tests {
+  umbrella header "Pods-iosVOIPSwiftLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

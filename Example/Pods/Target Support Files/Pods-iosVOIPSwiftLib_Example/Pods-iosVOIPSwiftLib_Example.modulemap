@@ -1,0 +1,6 @@
+framework module Pods_iosVOIPSwiftLib_Example {
+  umbrella header "Pods-iosVOIPSwiftLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

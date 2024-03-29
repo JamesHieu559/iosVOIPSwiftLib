@@ -1,0 +1,16 @@
+PODS:
+  - iosVOIPSwiftLib (0.1.0)
+
+DEPENDENCIES:
+  - iosVOIPSwiftLib (from `../`)
+
+EXTERNAL SOURCES:
+  iosVOIPSwiftLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iosVOIPSwiftLib: fd20da74c89a1597806a74cae8ac9a40fe6baa26
+
+PODFILE CHECKSUM: dcbbb929ef3b963bd99c464aef407d31af5eb1d5
+
+COCOAPODS: 1.15.2

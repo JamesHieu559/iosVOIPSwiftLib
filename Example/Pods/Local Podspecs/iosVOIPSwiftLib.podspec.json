@@ -1,0 +1,22 @@
+{
+  "name": "iosVOIPSwiftLib",
+  "version": "0.1.0",
+  "summary": "A short description of iosVOIPSwiftLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/37453099/iosVOIPSwiftLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "37453099": "hieu.ho@mitek.vn"
+  },
+  "source": {
+    "git": "https://github.com/37453099/iosVOIPSwiftLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "iosVOIPSwiftLib/Classes/**/*"
+}

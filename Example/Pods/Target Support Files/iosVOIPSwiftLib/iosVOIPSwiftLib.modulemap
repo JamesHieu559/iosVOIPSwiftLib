@@ -1,0 +1,6 @@
+framework module iosVOIPSwiftLib {
+  umbrella header "iosVOIPSwiftLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
