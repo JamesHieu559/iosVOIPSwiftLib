@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'iosVOIPSwiftLib_Example' do
+  pod 'iosVOIPSwiftLib', :path => '../'
+
+  target 'iosVOIPSwiftLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
